@@ -53,6 +53,7 @@ public class OperateTxt {
 		} catch (Exception e) {
 			System.out.println("读取文件内容出错");
 			e.printStackTrace();
+			e.printStackTrace();
 		}
 
 	}
