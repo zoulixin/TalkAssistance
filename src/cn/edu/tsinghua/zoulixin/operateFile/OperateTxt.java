@@ -113,7 +113,6 @@ public class OperateTxt {
 					doc.getFieldValue(field)));
 		}
 		out.println();
-		out.println();
 	}
 
 	public static void main(String args[]) {
